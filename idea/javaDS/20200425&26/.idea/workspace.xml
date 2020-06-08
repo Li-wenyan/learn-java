@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0041964a-d06e-4821-8a33-13bb9ef902ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7rjY0it3xGNwYS7mLw0hc2pym" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20200423/test/src/TreeInterview.java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TreeInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeInterview" />
+      <module name="20200425&amp;26" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeInterview" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0041964a-d06e-4821-8a33-13bb9ef902ac" name="Default Changelist" comment="" />
+      <created>1587994108417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587994108417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="207" key="FileChooserDialogImpl" timestamp="1588124317433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="703" y="207" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588124317433" />
+    <state width="623" height="176" key="GridCell.Tab.0.bottom" timestamp="1588080367956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588080367956" />
+    <state width="623" height="176" key="GridCell.Tab.0.center" timestamp="1588080367955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588080367955" />
+    <state width="623" height="176" key="GridCell.Tab.0.left" timestamp="1588080367955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588080367955" />
+    <state width="623" height="176" key="GridCell.Tab.0.right" timestamp="1588080367956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588080367956" />
+    <state x="434" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1588123850553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="220" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588123850553" />
+    <state x="115" y="0" key="new project wizard" timestamp="1588124336884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588124336884" />
+  </component>
+</project>

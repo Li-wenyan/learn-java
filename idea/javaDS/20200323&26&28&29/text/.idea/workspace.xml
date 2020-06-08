@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6aa71ead-8ceb-4cff-859b-d74544cbea27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZbLjhl1HEVK2QGNAnu3Mr3Bfp3" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../20200412/test/src/TestList.java" />
+  </component>
+  <component name="RunManager" selected="Application.HomeWorkDemo">
+    <configuration name="HomeWorkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorkDemo" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice111" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice222" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeDoubleLineList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeDoubleLineList" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWorkDemo" />
+        <item itemvalue="Application.PracticeDoubleLineList" />
+        <item itemvalue="Application.Practice111" />
+        <item itemvalue="Application.Practice222" />
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aa71ead-8ceb-4cff-859b-d74544cbea27" name="Default Changelist" comment="" />
+      <created>1585102983284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585102983284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="552" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585115472615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="168" y="552" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1585115472615" />
+    <state x="405" y="107" key="FileChooserDialogImpl" timestamp="1586848929011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586848929011" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1585574863235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585574863235" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1585574863235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585574863235" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1585574863235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585574863235" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1585574863235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585574863235" />
+    <state width="689" height="223" key="GridCell.Tab.1.bottom" timestamp="1585311824463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="689" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585311824463" />
+    <state width="689" height="223" key="GridCell.Tab.1.center" timestamp="1585311824463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="689" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585311824463" />
+    <state width="689" height="223" key="GridCell.Tab.1.left" timestamp="1585311824463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="689" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585311824463" />
+    <state width="689" height="223" key="GridCell.Tab.1.right" timestamp="1585311824463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="689" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585311824463" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586848882258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586848882258" />
+    <state x="0" y="0" key="new project wizard" timestamp="1586738927395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586738927395" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585387809705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585387809705" />
+  </component>
+</project>

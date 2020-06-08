@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a1fd070-dcd8-44c4-b1c7-00088de13bd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aSpcOkfynQOHf27wtBTMff1Ure" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Examination">
+    <configuration name="Examination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examination" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPoker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPoker" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestList" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YangHuiTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YangHuiTriangle" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Examination" />
+        <item itemvalue="Application.TestList" />
+        <item itemvalue="Application.YangHuiTriangle" />
+        <item itemvalue="Application.MyPoker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1fd070-dcd8-44c4-b1c7-00088de13bd2" name="Default Changelist" comment="" />
+      <created>1586738927517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586738927517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="50" key="#Project_Structure" timestamp="1586738935647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="50" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586738935647" />
+    <state x="575" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1586749450763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="575" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586749450763" />
+    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1586919183647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586919183647" />
+    <state width="700" height="176" key="GridCell.Tab.0.bottom" timestamp="1586870974581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="700" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586870974581" />
+    <state width="700" height="176" key="GridCell.Tab.0.center" timestamp="1586870974581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="700" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586870974581" />
+    <state width="700" height="176" key="GridCell.Tab.0.left" timestamp="1586870974581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="700" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586870974581" />
+    <state width="700" height="176" key="GridCell.Tab.0.right" timestamp="1586870974581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="700" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586870974581" />
+    <state x="461" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1586919089804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="220" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586919089804" />
+    <state x="57" y="0" key="new project wizard" timestamp="1586919184927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586919184927" />
+    <state x="533" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586752066958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586752066958" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="wuli">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/wuli" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/wuli" recursive="false" />
+  </library>
+</component>
