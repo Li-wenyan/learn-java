@@ -7,15 +7,15 @@ public class ThreadDemo23 {
         private Singleton() {
 
         }
-        private static Singleton instance = null;
+        private volatile static Singleton instance = null;
         public static Singleton getInstance() {
-            synchronized (Singleton.class) {
-                if(instance == null) {
-
-                    instance = new Singleton();
+            if(instance == null) {
+                synchronized (Singleton.class) {
+                    if(instance == null) {
+                        instance = new Singleton();
+                    }
                 }
             }
-
             return instance;
         }
     }

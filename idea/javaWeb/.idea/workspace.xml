@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d94dc690-c171-4e0a-89df-7667f62f469f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/web0611/ThreadDemo22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web0611/ThreadDemo23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web0613/ThreadDemo24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web0613/ThreadDemo25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/web0611/ThreadDemo23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/web0611/ThreadDemo23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +32,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ThreadDemo22">
-    <configuration name="ThreadDemo18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="web0609.ThreadDemo18" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web0613.Main" />
       <module name="javaWeb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="web0609.*" />
+          <option name="PATTERN" value="web0613.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,38 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="web0609.ThreadDemo19" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web0611.Test" />
       <module name="javaWeb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="web0609.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadDemo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="web0609.ThreadDemo20" />
-      <module name="javaWeb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="web0609.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadDemo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="web0609.ThreadDemo21" />
-      <module name="javaWeb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="web0609.*" />
+          <option name="PATTERN" value="web0611.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,13 +72,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadDemo24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web0613.ThreadDemo24" />
+      <module name="javaWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web0613.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web0613.ThreadDemo25" />
+      <module name="javaWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web0613.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThreadDemo25" />
+        <item itemvalue="Application.ThreadDemo24" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ThreadDemo22" />
-        <item itemvalue="Application.ThreadDemo21" />
-        <item itemvalue="Application.ThreadDemo20" />
-        <item itemvalue="Application.ThreadDemo19" />
-        <item itemvalue="Application.ThreadDemo18" />
       </list>
     </recent_temporary>
   </component>
@@ -125,33 +126,49 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="689" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1591415545452" />
-    <state x="857" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1591863388969">
+    <state x="857" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1592191322720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="857" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591863388969" />
-    <state width="809" height="248" key="GridCell.Tab.0.bottom" timestamp="1591969830513">
+    <state x="857" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592191322720" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1592214175258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="809" height="248" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591969830513" />
-    <state width="809" height="248" key="GridCell.Tab.0.center" timestamp="1591969830513">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592214175258" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1592214175258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="809" height="248" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591969830513" />
-    <state width="809" height="248" key="GridCell.Tab.0.left" timestamp="1591969830513">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592214175258" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1592214175258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="809" height="248" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591969830513" />
-    <state width="809" height="248" key="GridCell.Tab.0.right" timestamp="1591969830513">
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592214175258" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1592214175258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="809" height="248" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591969830513" />
-    <state x="599" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1591965447924">
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592214175258" />
+    <state width="1323" height="122" key="GridCell.Tab.1.bottom" timestamp="1592213583024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="599" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591965447924" />
-    <state x="715" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591412922735">
+    <state width="1323" height="122" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592213583024" />
+    <state width="1323" height="122" key="GridCell.Tab.1.center" timestamp="1592213583024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="715" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591412922735" />
+    <state width="1323" height="122" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592213583024" />
+    <state width="1323" height="122" key="GridCell.Tab.1.left" timestamp="1592213583024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="122" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592213583024" />
+    <state width="1323" height="122" key="GridCell.Tab.1.right" timestamp="1592213583024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="122" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592213583024" />
+    <state x="599" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1592220798981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="599" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592220798981" />
+    <state x="715" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592191220970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="715" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592191220970" />
   </component>
 </project>
