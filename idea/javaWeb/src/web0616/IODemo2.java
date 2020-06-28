@@ -1,7 +1,6 @@
-package io0616;
+package web0616;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 

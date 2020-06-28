@@ -1,8 +1,7 @@
-package io0618;
+package web0618;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class IODemo4 {
