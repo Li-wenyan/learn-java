@@ -53,10 +53,53 @@ public class HttpServerV1 {
                 headers.put(headerTokens[0], headerTokens[1]);
             }
             //    c)解析body（暂时先不考虑）。
+            //  请求解析完毕，加上一个日志，观察请求的内容是否正确
+            System.out.printf("%s %s %s\n", method, url, version);
+            for(Map.Entry<String, String> entry : headers.entrySet()) {
+                System.out.println(entry.getKey() + ": " + entry.getValue());
+            }
+            System.out.println();
             //2.根据请求计算响应
+            //不管是啥样的请求，都返回一个hello这样的html
+            String resp = "";
+            if(url.equals("/ok")) {
+                bufferedWriter.write(version + " 200 OK\n");
+                resp = "<h1>hello</h1>";
+            }else if (url.equals("/notfound")) {
+                bufferedWriter.write(version + " 404 Not Found\n");
+                resp = "<h1>not found</h1>";
+            }else if (url.equals("/seeother")) {
+                bufferedWriter.write(version + " 303 See Other\n");
+                bufferedWriter.write("Location: //www.sogou.com\n");
+                resp = "";
+            }else {
+                bufferedWriter.write(version + " 200 OK\n");
+                resp = "<h1>default</h1>";
+            }
+
             //3.把响应写回到客户端
+            bufferedWriter.write(version + " 200 OK\n");
+            bufferedWriter.write("Content-Type: text/html\n");
+            //此处的长度不能写成resp.length(), 得到的是字符的数目，而不应该是字节的数目
+            bufferedWriter.write("Content-Length: " + resp.getBytes().length + "\n");
+            bufferedWriter.write("/n");
+            bufferedWriter.write(resp);
+            //此处这个flush就算没有，问题也不大，
+            // 因为紧接着bufferedWriter对象就要关闭了，close时就会自动触发刷新操作
+            bufferedWriter.flush();
         } catch (IOException e) {
             e.printStackTrace();
+        }finally {
+            try {
+                clientSocket.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
+    }
+
+    public static void main(String[] args) throws IOException {
+        HttpServerV1 serverV1 = new HttpServerV1(9090);
+        serverV1.start();
     }
 }
