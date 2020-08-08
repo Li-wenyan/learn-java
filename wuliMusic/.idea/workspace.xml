@@ -503,16 +503,15 @@
       <workItem from="1596072699379" duration="21675000" />
       <workItem from="1596160145162" duration="9247000" />
       <workItem from="1596537677777" duration="1506000" />
-      <workItem from="1596772067834" duration="2489000" />
+      <workItem from="1596772067834" duration="3073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68751000" />
+    <option name="totallyTimeSpent" value="69335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
