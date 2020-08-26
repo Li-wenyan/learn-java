@@ -109,7 +109,7 @@ public class UserDao {
 
     //这个方法中进行UserDao的单元测试
     public static void main(String[] args) throws OrderSystemException {
-        UserDao userDao = new UserDao();
+        /*UserDao userDao = new UserDao();
         //1.验证插入数据
         User user = new User();
         user.setName("liwenyan");
@@ -123,6 +123,6 @@ public class UserDao {
 
         user = userDao.selectById(1);
         System.out.println("按照id查找");
-        System.out.println(user);
+        System.out.println(user);*/
     }
 }
